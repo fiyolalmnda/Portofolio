@@ -103,7 +103,7 @@ const Hero = () => {
                 opacity: 0.9,
               }}
             >
-              Mahasiswi S1 Sistem Informasi Telkom University & Technical Writer (Magang) di PT Bank Rakyat Indonesia (Persero) Tbk. Memiliki ketertarikan kuat di bidang software engineering dan system analyst dalam merancang solusi teknologi yang efektif dan efisien.
+              Mahasiswi S1 Sistem Informasi Telkom University. Memiliki ketertarikan kuat di bidang software engineering dan system analyst dalam merancang solusi teknologi yang efektif dan efisien.
             </p>
 
             <div style={{ display: 'flex', gap: '16px', flexWrap: 'wrap', alignItems: 'center' }}>

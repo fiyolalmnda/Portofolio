@@ -35,7 +35,7 @@ const About = () => {
               Terbiasa bekerja dalam lingkungan yang terstruktur dan kolaboratif melalui berbagai kepanitiaan dan organisasi seperti himpunan.
             </p>
             <p style={{ color: 'var(--text-body)', marginBottom: '32px', fontSize: '1rem', lineHeight: '1.7' }}>
-              Saat ini saya sedang magang sebagai <strong>Technical Writer di PT Bank Rakyat Indonesia (Persero) Tbk</strong>. Memiliki ketertarikan kuat di bidang <strong>software engineering</strong>, khususnya <strong>system analyst</strong>, dengan kemampuan berpikir analitis dan sistematis dalam memahami kebutuhan sistem. Berkomitmen untuk terus berkembang dan berkontribusi dalam merancang solusi teknologi yang efektif dan efisien.
+              Memiliki ketertarikan kuat di bidang <strong>software engineering</strong>, khususnya <strong>system analyst</strong>, dengan kemampuan berpikir analitis dan sistematis dalam memahami kebutuhan sistem. Berkomitmen untuk terus berkembang dan berkontribusi dalam merancang solusi teknologi yang efektif dan efisien.
             </p>
 
             {/* Quick Stats Grid */}

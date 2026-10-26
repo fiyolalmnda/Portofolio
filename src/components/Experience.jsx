@@ -6,9 +6,31 @@ const Experience = () => {
 
   const experiences = [
     {
+      organization: 'EISD LABORATORY',
+      role: 'Staf Publikasi Asisten Praktikum Proyek Perangkat Lunak',
+      period: 'September 2026 - Sekarang',
+      type: 'academic',
+      details: [
+        'Mengelola Learning Management System (LMS), meliputi penyusunan section, pengaturan jadwal dan tenggat waktu tugas.',
+        'Mengajar dan melakukan penilaian untuk lebih dari 20+ praktikan.',
+        'Membimbing praktikan dalam memahami konsep perangkat lunak (Github, Jira, Laravel, Automated Testing).',
+      ],
+    },
+    {
+      organization: 'EISD LABORATORY',
+      role: 'Staf Publikasi Asisten Praktikum Analisis dan Perancangan Sistem Informasi',
+      period: 'September 2026 - Sekarang',
+      type: 'academic',
+      details: [
+        'Mengelola Learning Management System (LMS), meliputi penyusunan section, pengaturan jadwal dan tenggat waktu tugas.',
+        'Mengajar dan melakukan penilaian untuk lebih dari 20+ praktikan.',
+        'Membimbing praktikan dalam memahami konsep APSI.',
+      ],
+    },
+    {
       organization: 'PT Bank Rakyat Indonesia (Persero) Tbk',
       role: 'Technical Writer (Internship)',
-      period: 'Juli 2026 - Sekarang',
+      period: 'Juli 2026 - September 2026',
       type: 'work',
       details: [
         'Melakukan data processing, mapping, dan reporting menggunakan Microsoft Excel, termasuk pivot table dan dashboard reporting.',
